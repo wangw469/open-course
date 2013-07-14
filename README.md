@@ -1,1 +1,1 @@
-cs50 [https://www.cs50.net]
+cs50 <https://www.cs50.net>
